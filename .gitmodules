@@ -1,0 +1,15 @@
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/gavronski/front-end.git
+[submodule "broker-service"]
+	path = broker-service
+	url = https://github.com/gavronski/broker-service.git
+[submodule "notes-service"]
+	path = notes-service
+	url = https://github.com/gavronski/notes-service.git
+[submodule "listener-service"]
+	path = listener-service
+	url = https://github.com/gavronski/listener-service.git
+[submodule "project-clip"]
+	path = project-clip
+	url = https://github.com/gavronski/project-clip.git
