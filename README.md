@@ -21,7 +21,7 @@ http://206.189.61.93:8082/
 
 ## Installation
 
-1. Download the app with submodules
+1. Download the app with submodules content
 
 ```bash
 git clone https://github.com/gavronski/microservices-app.git --recurse 
