@@ -3,7 +3,7 @@
 # Microservices Notes App
 
 The purpose of the app was to learn:
-* writing micorservices in Golang,
+* writing microservices in Golang,
 * data exchange using RPC and gRPC protocols, 
 * CQRS pattern.
 
